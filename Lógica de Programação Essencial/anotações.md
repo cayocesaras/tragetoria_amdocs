@@ -3,7 +3,7 @@
 Acredito que não há forma mais prática de começar na área de programação
 que não seja entendo o que é lógica. Neste curso muito bom por sinal, pude
 relembrar alguns conceitos básicos mas essenciais para desenvolvimento, e
-acredito que a forma como o professor Denilson Bonatti transmitiu o conteudo
+acredito que a forma como o professor <strong>Denilson Bonatti</strong> transmitiu o conteudo
 foi muito acertiva.
 
 Sem sombra de dúvidas a dica que ele deu do site StudioCode.org foi muito apropriada
