@@ -1,2 +1,2 @@
-# tragetoria_amdocs
-Descrição da minha tragetória no bootcamp da DIO - AMDOCS
+# Minha tragetória no BOOTCAMP de JAVA
+Aqui vou colocar algumas das minhas anotações e links úteis dessa jornada
