@@ -9,26 +9,26 @@ O Professor <strong>Bruno<strong> usou o VMWare para fazer a virtualização, em
 Linux é o Kernel ou Núcleo do Sistema
 
 #### Comandos Básicos:
-pwd - Mostra o endereço atual
-ls - Mostra os arquivos e diretórios do endereço atual
-mkdir - Cria um diretório
-rmdir - Remove um diretório
-man - Mostra o manual de um comando
---help - Abre o arquivo de ajuda
-history - Histórico de comandos
-mv - Move um arquivo ou diretório ou o renomeia
-cp - Copia um arquivo ou pasta
-touch - Cria um arquivo vazio
-rm - Remove um arquivo
-clear - Limpa o terminal
-exit - Sai do terminal
+- pwd - Mostra o endereço atual
+- ls - Mostra os arquivos e diretórios do endereço atual
+- mkdir - Cria um diretório
+- rmdir - Remove um diretório
+- man - Mostra o manual de um comando
+- --help - Abre o arquivo de ajuda
+- history - Histórico de comandos
+- mv - Move um arquivo ou diretório ou o renomeia
+- cp - Copia um arquivo ou pasta
+- touch - Cria um arquivo vazio
+- rm - Remove um arquivo
+- clear - Limpa o terminal
+- exit - Sai do terminal
 
 #### Atalhos Básicos:
-Ctrl+C - Cancela o comando atual em funcionamento
-Ctrl+Z - Pausa o comando atual, em primeiro plano ou segundo plano
-Ctrl+D - Faz o logout da sessão atual
-Ctrl+W - Apaga uma palavra na linha atual
-Ctrl+U - Apaga a linha inteira
-Ctrl+R - Busca um comando recente
-!! - Repete o último comado
+- Ctrl+C - Cancela o comando atual em funcionamento
+- Ctrl+Z - Pausa o comando atual, em primeiro plano ou segundo plano
+- Ctrl+D - Faz o logout da sessão atual
+- Ctrl+W - Apaga uma palavra na linha atual
+- Ctrl+U - Apaga a linha inteira
+- Ctrl+R - Busca um comando recente
+- !! - Repete o último comado
 
