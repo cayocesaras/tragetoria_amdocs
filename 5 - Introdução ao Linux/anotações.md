@@ -22,6 +22,28 @@ Linux é o Kernel ou Núcleo do Sistema
 - rm - Remove um arquivo
 - clear - Limpa o terminal
 - exit - Sai do terminal
+- echo - Permite escrever uma saída no terminal
+- cat - Exibe o conteudo de um arquivo de texto no terminal
+- tac - Exibe o conteudo de um arquivo de texto no terminal de forma invertida
+- head - Exibe as 10 primeiras linhas de um arquivo
+- tail - Exibe as 10 últimas linhas de um arquivo
+- cal - Exibe o calendário (senão for especificado o ano, trará apenas o mês corrente)
+- date - Exibe a data completa
+- grep - Procura por um texto no arquivo
+- more ou less - Exibe o resultado de forma paginada
+- find - Procura por um arquivo em um caminho especificado
+- file - Detalhes do arquivo ou pasta
+- whatis - Exibe detalhes de um comando especifico
+- lsubs - Lista os dispositivos conectados a uma ou mais portas USB
+- lscpu - Exibe informações sobre a CPU
+- lshw - Lista todos os hardwares configurados no sistema
+- lspci - Lista de dispositivos pci conectados
+- arch - Exibe a arquitetura do sistema
+- uname - Exibe detalhes sobre o kernel utilizado
+- free - Exibe dados da memória do sistema
+- du - Exibe informações de espaço em disco
+- reboot - Reinicia o sistema
+- shutdown -h - Desliga o sistema
 
 #### Atalhos Básicos:
 - Ctrl+C - Cancela o comando atual em funcionamento
@@ -32,3 +54,18 @@ Linux é o Kernel ou Núcleo do Sistema
 - Ctrl+R - Busca um comando recente
 - !! - Repete o último comado
 
+#### Diretórios:
+- /bin - Binários dos usuários
+- /boot - Arquivos do sistema de boot
+- /dev - Arquivos de dispositivos
+- /etc - Arquivos de configuração do sistema
+- /home - Diretórios dos usuários comuns do sistema
+- /media ou /mnt - Diretório de montagem e dispositivos
+- /opt - Instalação de programas não oficiais da distribuição
+- /sbin - Armazena arquivos executáveis que representam comandos administrativos
+- /srv - Diretório para dados de serviços fornecidos pelo sistema
+- /temp - Diretório para arquivos temporários
+- /usr - Segunda hierarquia do sistema
+- /var - Diretório com arquivos variáveis gerados pelos programas
+- /root - Diretório do usuários root
+- /proc - Diretório virtual controlado pelo Kernel
